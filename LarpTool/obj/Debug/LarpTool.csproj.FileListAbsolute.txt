@@ -1,0 +1,7 @@
+C:\Users\baugh\OneDrive\Desktop\LarpTool\LarpTool\bin\Debug\LarpTool.exe.config
+C:\Users\baugh\OneDrive\Desktop\LarpTool\LarpTool\bin\Debug\LarpTool.exe
+C:\Users\baugh\OneDrive\Desktop\LarpTool\LarpTool\bin\Debug\LarpTool.pdb
+C:\Users\baugh\OneDrive\Desktop\LarpTool\LarpTool\obj\Debug\LarpTool.csproj.AssemblyReference.cache
+C:\Users\baugh\OneDrive\Desktop\LarpTool\LarpTool\obj\Debug\LarpTool.csproj.CoreCompileInputs.cache
+C:\Users\baugh\OneDrive\Desktop\LarpTool\LarpTool\obj\Debug\LarpTool.exe
+C:\Users\baugh\OneDrive\Desktop\LarpTool\LarpTool\obj\Debug\LarpTool.pdb
