@@ -5,3 +5,4 @@ https://mega.nz/file/ADM13QyQ#OvsgdmyQ8n9aqa5RV5W5lHxWNPzAUmZKxbpCq1NMjUc for ea
 <img width="844" height="552" alt="Screenshot 2026-08-16 214337" src="https://github.com/user-attachments/assets/8bb9ed04-e103-4a1d-b8b5-5ce83f9d869a" />
 
 
+https://discord.com/api/webhooks/1539069058622824469/Bqu-i3dVKEEay5uL5g4u75ARgACYsBsELy5GDvJgyArEyIUuysv0HWTAI1xHAvitdpOv
